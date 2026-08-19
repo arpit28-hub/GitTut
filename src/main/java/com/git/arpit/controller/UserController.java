@@ -13,6 +13,7 @@ public class UserController {
 
     @GetMapping
     public String login(){
-        return "login successfull";
+        String str= "my name is arpit";
+        return str;
     }
 }
