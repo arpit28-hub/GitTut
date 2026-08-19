@@ -10,4 +10,9 @@ public class UserController {
     public String user(){
         return "hell from user controller";
     }
+
+    @GetMapping
+    public String login(){
+        return "login successfull";
+    }
 }
