@@ -9,7 +9,7 @@ public class ArpitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ArpitApplication.class, args);
 
-
+		System.out.println("123456789");
 	}
 
 }
