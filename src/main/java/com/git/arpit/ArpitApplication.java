@@ -10,6 +10,8 @@ public class ArpitApplication {
 		SpringApplication.run(ArpitApplication.class, args);
 
 		System.out.println("123456789");
+		System.out.println("hello");
+
 	}
 
 }
